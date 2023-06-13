@@ -1,0 +1,120 @@
+.h1{
+    background-color: blanchedalmond;
+}
+.h1:hover{
+    color: aqua;
+    background-color:blanchedalmond;
+}
+body{
+    height: 4000px;
+    background-color: blanchedalmond;
+  }
+  .content{
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+    background-color:blanchedalmond;
+    border-radius: 20px;
+  
+   }
+  .value{
+    font-size: 100px;
+    color: rgb(141, 82, 196);
+    border-radius: 100px;
+    
+  }
+  .value:hover{
+    color: brown;
+  }
+  .h2{
+    background-color:black;
+  }
+  .h2:hover{
+    color: blanchedalmond;
+    background: rgb(218, 137, 32);
+  }
+  .h3{
+    background-color:black;
+  }
+  .h3:hover{
+    color: blanchedalmond;
+    background: rgb(3, 197, 245);
+  }
+  .h4{
+    background-color: blanchedalmond;
+  }
+  .h4:hover{
+    background-color:aqua;
+    color: brown;
+  }
+  .h5{
+    background-color: blanchedalmond;
+    color:aquamarine;
+  }
+  .h5:hover{
+    background-color: rgb(188, 62, 148);
+  }
+  .h6{
+    background-color: blanchedalmond;
+  }
+  .h6:hover{
+    background-color: blanchedalmond;
+    color: brown;
+  }
+  .h7{
+    background-color:blanchedalmond;
+  }
+  .h7:hover{
+    color: rgb(27, 133, 226);
+    background: blanchedalmond;
+  }
+  .h8{
+    background: rgb(220, 165, 111);
+  }
+  .h9{
+    background-color: rgb(220, 165, 111);
+}
+  .h9:hover{
+    color: rgb(19, 233, 165);
+}
+.h11{
+    background-color: blanchedalmond;
+}
+.h11:hover{
+    color:hwb(0 5% 9%);
+    background-color: blanchedalmond;
+}
+.h12{
+    color: blanchedalmond;
+}
+.h12:hover{
+    color: rgb(21, 206, 126);
+    background: blanchedalmond;
+
+}
+.h13{
+    background: blanchedalmond;
+  }
+  .h13:hover{
+    background-color: blanchedalmond;
+    color: brown;
+  }
+  .h14{
+    background-color: blanchedalmond;
+}
+.h14:hover{
+    color: aqua;
+    background-color:blanchedalmond;
+}
+.h15{
+    color: blanchedalmond;
+}
+.h15:hover{
+    color: rgb(254, 3, 3);
+}
+.h16{
+  color: rgb(116, 115, 114);
+}
+.h16:hover{
+  color: rgb(8, 1, 1);
+}
